@@ -1,0 +1,33 @@
+
+# Created by https://www.gitignore.io/api/intellij
+
+### Intellij ###
+
+# User-specific stuff:
+.idea/
+*.iml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+/src/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+
+# Created by https://www.gitignore.io/api/python
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+
+# Rope project settings
+.ropeproject
+/test/
